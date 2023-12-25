@@ -1,0 +1,2 @@
+class CUDANotDiscovered(Exception):
+    pass
